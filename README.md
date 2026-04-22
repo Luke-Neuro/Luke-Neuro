@@ -1,5 +1,5 @@
 #🧬 Hi there, I'm Luke 👋
-I'm an Honours student at the University of Wollongong, bridging the gap between analytical chemistry and computational biology. I focus on structural bioinformatics, specifically the in silico production of personalized therapeutics.
+I'm an Honours student at the University of Wollongong. I focus on structural bioinformatics, specifically the in silico production of personalized therapeutics for Human Endogenous Retroviruses in ALS.
 
 ##🔭 What I'm Currently Working On
 Binder Generation Research: The evolution of binder generation and exploring its applications in HERV-based ALS therapies.
